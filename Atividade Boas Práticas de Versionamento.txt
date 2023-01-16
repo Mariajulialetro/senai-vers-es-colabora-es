@@ -2,3 +2,6 @@ Quais são as boas práticas de versionamento?
 
 1 - Fazer comentários a cada modificação no código para não se perder.
 
+2 - Fazer backup das versões, utilizando tags para identificar facilmente ao que se refere.
+
+
